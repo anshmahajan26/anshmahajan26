@@ -1,16 +1,152 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anshmahajan26/anshmahajan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:7B2FFF,100:00F0FF&height=200&section=header&text=Ansh%20Mahajan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20AI-Integrated%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+production-grade+MERN+applications;JWT+Auth+%7C+Razorpay+%7C+ML+Pipelines;Prompt-Engineering+GPT%2C+Claude%2C+Copilot+%2C+Gemini;Turning+ideas+into+deployed+products" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://github.com/anshmahajan"><img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0a0a0f" /></a>
+<a href="https://linkedin.com/in/anshmahajan"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=FF00E5&labelColor=0a0a0f" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=vercel&logoColor=7B2FFF&labelColor=0a0a0f" /></a>
+<a href="mailto:anshmahajan345@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0a0a0f" /></a>
+
+</div>
+
+<br/>
+
+## 🌧️ Commits fall like rain
+
+<div align="center">
+<img src="assets/commit-rain.svg" width="100%" />
+</div>
+
+> Replace the links above with your real GitHub / LinkedIn / Portfolio handles before you push this.
+
+---
+
+### 👋 About Me
+
+- 🔭 Full-stack **MERN** developer building production-oriented web apps with secure **JWT auth** and **Razorpay** payment workflows
+- 🤖 I connect **machine learning services** (XGBoost, FastAPI) into real-world systems — not just notebooks
+- ⚡ Power-user of **GenAI tools** (ChatGPT, Claude, GitHub Copilot, Gemini API) — I use them to move fast, then I own the debugging, validation, and system design myself
+- 🎓 B.E. in **Artificial Intelligence & Data Science**, G.S.M. College of Engineering, Pune (SPPU) — CGPA 8.77
+- 🌱 Currently sharpening ML-pipeline + deployment skills through real projects like **CementPro**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,firebase,py,fastapi,java,js,html,css,tailwind,angular,git,github,postman,vscode&theme=dark" />
+
+</div>
+
+<div align="center">
+
+![XGBoost](https://img.shields.io/badge/XGBoost-7B2FFF?style=flat-square&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-FF00E5?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-00F0FF?style=flat-square&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-39FF14?style=flat-square&logo=numpy&logoColor=black)
+
+</div>
+
+**GenAI toolkit:** ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-FF00E5?style=flat-square&logo=anthropic&logoColor=white) ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-00F0FF?style=flat-square&logo=googlegemini&logoColor=black)
+
+---
+
+### 💼 Experience
+
+```text
+Apr 2025 – Oct 2025   React Developer Intern @ JP Technology
+                      → Built responsive React + Tailwind UI, integrated REST APIs
+                      → Debounced/throttled high-frequency events to cut re-renders & network calls
+                      → Used Copilot/ChatGPT for boilerplate, manually refined for production
+
+Dec 2024 – Jan 2025   Web Development Intern @ NewAI Lab
+                      → Built an Expense Tracker app end-to-end
+                      → Used ChatGPT to draft edge-case tests, manually caught rounding/negative bugs
+```
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏗️ CementPro**
+*Material Procurement & Sustainability Platform*
+
+Predicts next-day ready-mix concrete demand (XGBoost + Random Forest + weather data) to kill over/under-ordering. Ships a procurement engine, Gemini-powered NL querying, JWT role-based access (Admin/Manager/Operator), and automated Excel/PDF reporting.
+
+`React` `Node.js` `FastAPI` `XGBoost` `MongoDB` `Gemini API`
+
+</td>
+<td width="50%" valign="top">
+
+**🏠 HostHive**
+*Rental Property Management Platform*
+
+Full CRUD platform for property listings & reservations. Copilot-accelerated route generation, hand-built validation, error handling, and duplicate-booking checks on top.
+
+`React` `Node.js` `MongoDB`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+<img src="assets/achievements.svg" width="100%" />
+</div>
+
+**Certifications:** Full Stack Web Development (Apna College) · SQL Certified (HackerRank) · JavaScript Intermediate (HackerRank) · Building with the Claude API (Anthropic) · Claude Code in Action (Anthropic)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anshmahajan&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00F0FF&icon_color=FF00E5&text_color=e0e0e0" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshmahajan&theme=radical&hide_border=true&background=0a0a0f&ring=FF00E5&fire=7B2FFF&currStreakLabel=00F0FF" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshmahajan&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00F0FF&text_color=e0e0e0" height="165"/>
+
+</div>
+
+> ⚠️ Swap `anshmahajan` in every stats/streak URL above for your actual GitHub username, or the cards will render empty.
+
+---
+
+### 🐍 Contribution Snake
+
+Generated automatically by the GitHub Action in `.github/workflows/snake.yml` — it eats your real contribution graph every day.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/anshmahajan/anshmahajan/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+> This image only appears once the workflow has run at least once on your repo (see setup note below).
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+**anshmahajan345@gmail.com** &nbsp;·&nbsp; +91&nbsp;9975363927
+
+<img src="https://komarev.com/ghpvc/?username=anshmahajan&label=Profile+Views&color=FF00E5&style=for-the-badge" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FFF,100:FF00E5&height=100&section=footer" width="100%"/>
+
+</div>

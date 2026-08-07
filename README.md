@@ -6,9 +6,9 @@
 
 <br/>
 
-<a href="https://github.com/anshmahajan"><img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0a0a0f" /></a>
-<a href="https://linkedin.com/in/anshmahajan"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=FF00E5&labelColor=0a0a0f" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=vercel&logoColor=7B2FFF&labelColor=0a0a0f" /></a>
+<a href="https://github.com/anshmahajan26/"><img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0a0a0f" /></a>
+<a href="https://www.linkedin.com/in/ansh-mahajan26052004b/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=FF00E5&labelColor=0a0a0f" /></a>
+<a href="https://portfolio-pzy8.onrender.com"><img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=vercel&logoColor=7B2FFF&labelColor=0a0a0f" /></a>
 <a href="mailto:anshmahajan345@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0a0a0f" /></a>
 
 </div>
@@ -20,8 +20,6 @@
 <div align="center">
 <img src="assets/commit-rain.svg" width="100%" />
 </div>
-
-> Replace the links above with your real GitHub / LinkedIn / Portfolio handles before you push this.
 
 ---
 
@@ -77,8 +75,9 @@ Dec 2024 – Jan 2025   Web Development Intern @ NewAI Lab
 <tr>
 <td width="50%" valign="top">
 
-**🏗️ CementPro**
-*Material Procurement & Sustainability Platform*
+<img src="assets/cementpro-art.svg" width="100%" />
+
+**🏗️ CementPro** — *Material Procurement & Sustainability Platform*
 
 Predicts next-day ready-mix concrete demand (XGBoost + Random Forest + weather data) to kill over/under-ordering. Ships a procurement engine, Gemini-powered NL querying, JWT role-based access (Admin/Manager/Operator), and automated Excel/PDF reporting.
 
@@ -87,8 +86,9 @@ Predicts next-day ready-mix concrete demand (XGBoost + Random Forest + weather d
 </td>
 <td width="50%" valign="top">
 
-**🏠 HostHive**
-*Rental Property Management Platform*
+<img src="assets/hosthive-art.svg" width="100%" />
+
+**🏠 HostHive** — *Rental Property Management Platform*
 
 Full CRUD platform for property listings & reservations. Copilot-accelerated route generation, hand-built validation, error handling, and duplicate-booking checks on top.
 
@@ -110,20 +110,28 @@ Full CRUD platform for property listings & reservations. Copilot-accelerated rou
 
 ---
 
+### 🎓 Education
+
+| Qualification | Institution | Result | Years |
+|---|---|---|---|
+| B.E. — Artificial Intelligence & Data Science | G.S.M. College of Engineering, Pune (SPPU) | CGPA 8.77 | 2022 – 26 |
+| Higher Secondary Certificate (Class 12) | Nutan Vidyalaya Malkapur | 89.83% | 2021 – 22 |
+| Secondary School Certificate (Class 10) | D.E.S Highschool Datala | 96.40% | 2019 – 20 |
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshmahajan&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00F0FF&icon_color=FF00E5&text_color=e0e0e0" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshmahajan&theme=radical&hide_border=true&background=0a0a0f&ring=FF00E5&fire=7B2FFF&currStreakLabel=00F0FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anshmahajan26&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00F0FF&icon_color=FF00E5&text_color=e0e0e0" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshmahajan26&theme=radical&hide_border=true&background=0a0a0f&ring=FF00E5&fire=7B2FFF&currStreakLabel=00F0FF" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshmahajan&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00F0FF&text_color=e0e0e0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshmahajan26&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00F0FF&text_color=e0e0e0" height="165"/>
 
 </div>
-
-> ⚠️ Swap `anshmahajan` in every stats/streak URL above for your actual GitHub username, or the cards will render empty.
 
 ---
 
@@ -132,10 +140,10 @@ Full CRUD platform for property listings & reservations. Copilot-accelerated rou
 Generated automatically by the GitHub Action in `.github/workflows/snake.yml` — it eats your real contribution graph every day.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anshmahajan/anshmahajan/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/anshmahajan26/anshmahajan26/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-> This image only appears once the workflow has run at least once on your repo (see setup note below).
+> This image appears once the workflow below has run at least once.
 
 ---
 
@@ -145,8 +153,17 @@ Generated automatically by the GitHub Action in `.github/workflows/snake.yml` �
 
 **anshmahajan345@gmail.com** &nbsp;·&nbsp; +91&nbsp;9975363927
 
-<img src="https://komarev.com/ghpvc/?username=anshmahajan&label=Profile+Views&color=FF00E5&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=anshmahajan26&label=Profile+Views&color=FF00E5&style=for-the-badge" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FFF,100:FF00E5&height=100&section=footer" width="100%"/>
 
 </div>
+
+<!--
+SETUP CHECKLIST (delete this comment once done)
+1. Create a repo named EXACTLY "anshmahajan26" (same as your GitHub username) — that's what turns a README into your profile page.
+2. Push this whole folder (README.md, assets/, .github/) to that repo's main branch.
+3. Go to Settings → Actions → General → Workflow permissions → set to "Read and write permissions" (required for the snake workflow to push to the `output` branch).
+4. Run the "Generate Snake Animation" workflow once manually from the Actions tab (or just push — it also runs on push to main).
+5. Everything else (stats cards, streak, typing SVG, top languages, view counter, rain, achievements) works immediately, no extra setup — they're either static SVGs in /assets or public read-only services keyed to your username.
+-->

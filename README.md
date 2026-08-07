@@ -15,8 +15,6 @@
 
 <br/>
 
-## 🌧️ Commits fall like rain
-
 <div align="center">
 <img src="assets/commit-rain.svg" width="100%" />
 </div>

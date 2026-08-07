@@ -1,0 +1,355 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" height="220">
+  <defs>
+    <linearGradient id="fadeGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a0f" stop-opacity="1"/>
+      <stop offset="8%" stop-color="#0a0a0f" stop-opacity="0"/>
+      <stop offset="92%" stop-color="#0a0a0f" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0a0a0f" stop-opacity="1"/>
+    </linearGradient>
+    <style>
+      .rainchar { font-family: 'Consolas','Courier New',monospace; font-weight: 600; }
+    </style>
+  </defs>
+  <rect width="900" height="220" fill="#0a0a0f"/>
+  <g>
+    <text class="rainchar" x="1" y="0" font-size="13" fill="#FF00E5">
+      <tspan>9f4e21a</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="6.33s" begin="2.37s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="6.33s" begin="2.37s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="23" y="0" font-size="11" fill="#FF6EC7">
+      <tspan>commit</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.41s" begin="0.35s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.41s" begin="0.35s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="49" y="0" font-size="12" fill="#FF00E5">
+      <tspan>fix:</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.63s" begin="0.42s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.63s" begin="0.42s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="74" y="0" font-size="13" fill="#00F0FF">
+      <tspan>4d5c6e7</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="5.93s" begin="0.74s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="5.93s" begin="0.74s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="100" y="0" font-size="13" fill="#00F0FF">
+      <tspan>a1b2c3d</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="5.1s" begin="2.38s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="5.1s" begin="2.38s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="128" y="0" font-size="12" fill="#FF00E5">
+      <tspan>e7a2b91</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.16s" begin="0.87s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.16s" begin="0.87s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="160" y="0" font-size="13" fill="#FF6EC7">
+      <tspan>e7a2b91</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="5.89s" begin="1.08s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="5.89s" begin="1.08s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="181" y="0" font-size="11" fill="#FF00E5">
+      <tspan>e7a2b91</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.43s" begin="3.29s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.43s" begin="3.29s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="207" y="0" font-size="13" fill="#7B2FFF">
+      <tspan>feat:</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.84s" begin="3.19s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.84s" begin="3.19s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="237" y="0" font-size="11" fill="#00F0FF">
+      <tspan>deploy</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.39s" begin="1.49s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.39s" begin="1.49s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="257" y="0" font-size="12" fill="#7B2FFF">
+      <tspan>deploy</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="5.1s" begin="3.15s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="5.1s" begin="3.15s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="286" y="0" font-size="11" fill="#FF6EC7">
+      <tspan>merge</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="5.21s" begin="0.44s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="5.21s" begin="0.44s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="313" y="0" font-size="11" fill="#FF00E5">
+      <tspan>4d5c6e7</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="3.7s" begin="2.93s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="3.7s" begin="2.93s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="342" y="0" font-size="13" fill="#7B2FFF">
+      <tspan>8c3d0f1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="5.09s" begin="5.25s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="5.09s" begin="5.25s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="365" y="0" font-size="11" fill="#39FF14">
+      <tspan>9f4e21a</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="5.16s" begin="3.48s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="5.16s" begin="3.48s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="390" y="0" font-size="13" fill="#FF00E5">
+      <tspan>deploy</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.76s" begin="3.98s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.76s" begin="3.98s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="416" y="0" font-size="13" fill="#39FF14">
+      <tspan>push</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="5.34s" begin="5.96s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="5.34s" begin="5.96s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="444" y="0" font-size="11" fill="#39FF14">
+      <tspan>8c3d0f1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="6.13s" begin="2.08s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="6.13s" begin="2.08s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="465" y="0" font-size="13" fill="#7B2FFF">
+      <tspan>git</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.83s" begin="1.31s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.83s" begin="1.31s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="493" y="0" font-size="11" fill="#39FF14">
+      <tspan>9f4e21a</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.51s" begin="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.51s" begin="5.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="523" y="0" font-size="12" fill="#00F0FF">
+      <tspan>b2f9a11</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.53s" begin="1.67s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.53s" begin="1.67s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="550" y="0" font-size="12" fill="#7B2FFF">
+      <tspan>4d5c6e7</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.12s" begin="2.49s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.12s" begin="2.49s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="571" y="0" font-size="11" fill="#00F0FF">
+      <tspan>4d5c6e7</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="3.7s" begin="1.06s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="3.7s" begin="1.06s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="594" y="0" font-size="11" fill="#7B2FFF">
+      <tspan>push</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.8s" begin="3.53s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.8s" begin="3.53s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="622" y="0" font-size="11" fill="#FF6EC7">
+      <tspan>8c3d0f1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.58s" begin="2.22s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.58s" begin="2.22s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="654" y="0" font-size="13" fill="#FF00E5">
+      <tspan>feat:</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="6.34s" begin="3.93s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="6.34s" begin="3.93s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="680" y="0" font-size="13" fill="#FF00E5">
+      <tspan>feat:</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.49s" begin="2.39s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.49s" begin="2.39s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="704" y="0" font-size="11" fill="#00F0FF">
+      <tspan>feat:</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="3.41s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="3.41s" begin="0.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="725" y="0" font-size="11" fill="#FF00E5">
+      <tspan>e7a2b91</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="4.32s" begin="0.32s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="4.32s" begin="0.32s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="758" y="0" font-size="11" fill="#FF00E5">
+      <tspan>9f4e21a</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="3.53s" begin="2.18s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="3.53s" begin="2.18s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="782" y="0" font-size="12" fill="#7B2FFF">
+      <tspan>e7a2b91</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="3.69s" begin="1.51s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="3.69s" begin="1.51s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="809" y="0" font-size="12" fill="#39FF14">
+      <tspan>feat:</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="3.61s" begin="5.09s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="3.61s" begin="5.09s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="832" y="0" font-size="12" fill="#7B2FFF">
+      <tspan>deploy</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="3.48s" begin="0.61s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="3.48s" begin="0.61s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <text class="rainchar" x="861" y="0" font-size="13" fill="#FF00E5">
+      <tspan>commit</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,-30" to="0,250"
+        dur="5.94s" begin="0.97s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1"
+        dur="5.94s" begin="0.97s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect width="900" height="220" fill="url(#fadeGrad)"/>
+</svg>

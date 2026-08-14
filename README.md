@@ -118,20 +118,9 @@ Full CRUD platform for property listings & reservations. Copilot-accelerated rou
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshmahajan26&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00F0FF&icon_color=FF00E5&text_color=e0e0e0" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshmahajan26&theme=radical&hide_border=true&background=0a0a0f&ring=FF00E5&fire=7B2FFF&currStreakLabel=00F0FF" height="165"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshmahajan26&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00F0FF&text_color=e0e0e0" height="165"/>
-
-</div>
-
----
 
 ### 🐍 Contribution Snake
 

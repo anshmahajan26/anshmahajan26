@@ -138,7 +138,7 @@ Generated automatically by the GitHub Action in `.github/workflows/snake.yml` �
 
 ### 📫 Let's Connect
 
-**anshmahajan345@gmail.com** &nbsp;·&nbsp; +91&nbsp;9975363927
+**anshmahajan345@gmail.com** &nbsp;·&nbsp; 
 
 <img src="https://komarev.com/ghpvc/?username=anshmahajan26&label=Profile+Views&color=FF00E5&style=for-the-badge" />
 
